@@ -12,8 +12,8 @@
       </div>
     {% endif %}
 
-    <p><a href="{{post.talk}}">{{post.title}}</a>, {{post.venue}}<\n>
-      <i>{{post.date}}</i>.
+    <p><a href="{{post .talk}}">{{post.title}}</a>, {{post.venue}}<br />
+      <i>{{ post.date | date: '%B %d, %Y' }}</i>.
     </p>
   </article>
 </div>
