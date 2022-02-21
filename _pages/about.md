@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a Post doc at [ENSAE-CREST](https://crest.science/) with [Vianney Perchet](https://www.ensae.fr/faculty/vianney-perchet/)
+
 I am a PhD candidate at Inria Saclay in the [Parietal Team](https://team.inria.fr/parietal/).
 
 My research interests touch several areas of machine learning, high-dimensional statistics, statistical modeling with application to anatomical and functional brain mapping.

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo RICHARD"
 title_separator          : "-"
 name                     : &name "Hugo RICHARD"
-description              : &description "PHD candidate at Parietal Team (INRIA - SACLAY)"
+description              : &description "PHD"
 url                      : https://hugorichard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hugorichard.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hugo RICHARD"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Machine Learning"
-  location         : "Inria - Saclay"
+  bio              : "Postdoc"
+  location         : "CREST Saclay"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5KaKAOgAAAAJ&hl=fr&authuser=1"
