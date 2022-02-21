@@ -15,4 +15,4 @@ My research interests touch several areas of machine learning: I study theoretic
 
 I did my PhD at Inria Saclay in the [INRIA Parietal Team](https://team.inria.fr/parietal/) under the supervision of [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/).
 
-{% twitter https://twitter.com/hr1ch3rd limit=5 align=center}
+{% twitter https://twitter.com/hr1ch3rd limit=5 align=center %}
