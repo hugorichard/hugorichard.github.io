@@ -12,7 +12,11 @@
       </div>
     {% endif %}
 
-    <p><a href="{{post .talk}}">{{post.title}}</a>, {{post.venue}}<br />
+    <p><a href="{{post .talk}}">{{post.title}}</a>, {{post.venue}}
+      {% if post.more %}
+       {{post.more}}
+      {% endif %}
+      <br />
       <i>{{ post.date | date: '%B %d, %Y' }}</i>.
     </p>
   </article>
