@@ -2,7 +2,6 @@
 title: "Introduction to Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-linearalgebra
 venue: "IUT Orsay (2018)"
 ---
 An introduction to linear algebra concluding with an introduction to abstract vector spaces.

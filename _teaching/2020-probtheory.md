@@ -2,10 +2,7 @@
 title: "Introduction to probability theory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-probtheory
-venue: "IUT Orsay"
-date: 2020-09-01
-location: "Orsay, France"
+venue: "IUT Orsay (2020)"
 ---
 An introduction to probability theory concluding with an introduction to statistical tests.
 

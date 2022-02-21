@@ -2,10 +2,7 @@
 title: "Modelisation"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-modelisation
-venue: "IUT Orsay"
-date: 2021-09-01
-location: "orsay, france"
+venue: "IUT Orsay (2021)"
 ---
 Linear algebra and coupled first order differential equations
 

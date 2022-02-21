@@ -2,7 +2,6 @@
 title: "Statistics in high dimensions"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2021-enpc
 venue: "ENPC (2021)"
 ---
 

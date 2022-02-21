@@ -2,10 +2,7 @@
 title: "An introduction to graphs, formal languages and automata"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-graphtheory
-venue: "IUT Orsay"
-date: 2019-02-01
-location: "Orsay, France"
+venue: "IUT Orsay (2019)"
 ---
 An introduction to graph theory concluding with an introduction to automata and formal languages.
 
