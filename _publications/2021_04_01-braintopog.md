@@ -1,8 +1,6 @@
 ---
-title: "Modeling Shared Responses in Neuroimaging Studies through MultiView ICA"
-venue: 'Accepted for a <strong>spotlight</strong> at NeurIPS 2020' 
-pdf: 'https://proceedings.neurips.cc/paper/2020/file/de03beffeed9da5f3639a621bcab5dd4-paper.pdf'
-code: 'https://github.com/hugorichard/multiviewica'
-talk: 'https://www.youtube.com/watch?v=qWDqkq7eKM8'
-authors: '<strong>H. Richard</strong>, L. Gresele, A. Hyvärinen, B. Thirion, A. Gramfort and P. Ablin'
+title: "Brain topography beyond parcellations: Local gradients of functional maps"
+venue: 'Neuroimage 2021' 
+pdf: 'https://www.sciencedirect.com/science/article/pii/S1053811920311915?via%3Dihub'
+authors: 'E. Dohmatob, <strong>H. Richard</strong>, A. L. Pinho and B. Thirion'
 ---
