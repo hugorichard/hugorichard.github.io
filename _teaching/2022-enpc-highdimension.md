@@ -5,4 +5,6 @@ type: "Graduate course"
 venue: "ENPC (2022)"
 ---
 
-- Shrinkage and Stein's phenomenon (<a href="./stein.pdf">slides</a>, <a href="">notes</a>)
+- Shrinkage and Stein's phenomenon (<a href="./stein.pdf">slides</a>)
+- Shrinkage and Stein's phenomenon (<a href="./stein2.pdf">slides</a>)
+- Underdetermined systems and low rank matrices
