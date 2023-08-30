@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Criteo AI Labs](https://www.criteo.com/).
+I am a Research Scientist at [Criteo AI Labs](https://ailab.criteo.com/).
 
 My research interests touch several areas of machine learning: 
 I am interested in bandits and online algorithms, unsupervised analysis of multiview dataset and neuroimaging data.
