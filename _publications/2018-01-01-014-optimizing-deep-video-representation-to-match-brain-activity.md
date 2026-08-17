@@ -2,7 +2,9 @@
 title: "Optimizing deep video representation to match brain activity"
 collection: publications
 date: 2018-01-01
-venue: "arXiv preprint arXiv:1809.02440, 2018"
+venue: "Conference on Cognitive Computational Neuroscience (CCN), 2018"
+research_areas:
+  - neuroimaging
 authors: "<strong>Hugo Richard</strong>, Ana Pinho, Bertrand Thirion, Guillaume Charpiat"
 pdf: "https://arxiv.org/pdf/1809.02440"
 source: "https://arxiv.org/abs/1809.02440"

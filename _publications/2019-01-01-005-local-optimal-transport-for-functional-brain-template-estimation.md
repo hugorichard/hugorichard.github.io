@@ -3,6 +3,8 @@ title: "Local optimal transport for functional brain template estimation"
 collection: publications
 date: 2019-01-01
 venue: "International conference on information processing in medical imaging, 237-248, 2019"
+research_areas:
+  - neuroimaging
 authors: "Thomas Bazeille, <strong>Hugo Richard</strong>, Hicham Janati, Bertrand Thirion"
 pdf: "https://hal.science/hal-02278663/document"
 source: "https://link.springer.com/chapter/10.1007/978-3-030-20351-1_18"

@@ -3,6 +3,8 @@ title: "Fastsrm: A fast, memory efficient and identifiable implementation of the
 collection: publications
 date: 2023-01-01
 venue: "Aperture Neuro, 2023"
+research_areas:
+  - neuroimaging
 authors: "<strong>Hugo Richard</strong>, Bertrand Thirion"
 pdf: "https://inria.hal.science/hal-04353509/document"
 source: "https://inria.hal.science/hal-04353509/"

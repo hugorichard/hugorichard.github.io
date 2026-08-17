@@ -2,7 +2,9 @@
 title: "Fast shared response model for fMRI data"
 collection: publications
 date: 2019-01-01
-venue: "arXiv preprint arXiv:1909.12537, 2019"
+venue: "Organization for Human Brain Mapping (OHBM), 2018"
+research_areas:
+  - neuroimaging
 authors: "<strong>Hugo Richard</strong>, Lucas Martin, Ana Lu\u0131sa Pinho, Jonathan Pillow, Bertrand Thirion"
 pdf: "https://arxiv.org/pdf/1909.12537"
 source: "https://arxiv.org/abs/1909.12537"

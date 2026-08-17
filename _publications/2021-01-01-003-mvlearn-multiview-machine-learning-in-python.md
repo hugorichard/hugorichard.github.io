@@ -3,6 +3,8 @@ title: "mvlearn: Multiview machine learning in python"
 collection: publications
 date: 2021-01-01
 venue: "Journal of Machine Learning Research 22 (109), 1-7, 2021"
+research_areas:
+  - neuroimaging
 authors: "Ronan Perry, Gavin Mischler, Richard Guo, Theodore Lee, Alexander Chang, Arman Koul, Cameron Franz, <strong>Hugo Richard</strong>, Iain Carmichael, Pierre Ablin, Alexandre Gramfort, Joshua T Vogelstein"
 pdf: "http://www.jmlr.org/papers/volume22/20-1370/20-1370.pdf"
 source: "http://www.jmlr.org/papers/v22/20-1370.html"

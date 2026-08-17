@@ -3,6 +3,8 @@ title: "An empirical evaluation of functional alignment using inter-subject deco
 collection: publications
 date: 2021-01-01
 venue: "NeuroImage 245, 118683, 2021"
+research_areas:
+  - neuroimaging
 authors: "Thomas Bazeille, Elizabeth DuPre, <strong>Hugo Richard</strong>, Jean-Baptiste Poline, Bertrand Thirion"
 pdf: "https://www.sciencedirect.com/science/article/pii/S1053811921009563"
 source: "https://www.sciencedirect.com/science/article/pii/S1053811921009563"

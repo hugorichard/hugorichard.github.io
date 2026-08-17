@@ -3,6 +3,8 @@ title: "Brain topography beyond parcellations: local gradients of functional map
 collection: publications
 date: 2021-01-01
 venue: "NeuroImage 229, 117706, 2021"
+research_areas:
+  - neuroimaging
 authors: "Elvis Dohmatob, <strong>Hugo Richard</strong>, Ana Lu\u00edsa Pinho, Bertrand Thirion"
 pdf: "https://www.sciencedirect.com/science/article/pii/S1053811920311915"
 source: "https://www.sciencedirect.com/science/article/pii/S1053811920311915"
