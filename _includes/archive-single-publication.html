@@ -20,11 +20,17 @@
       {% if post.pdf %}
       <a href="{{post.pdf}}">pdf</a>
       {% endif %}
+      {% if post.source %}
+      <a href="{{post.source}}">source</a>
+      {% endif %}
       {% if post.code %}
       <a href="{{post.code}}">code</a>
       {% endif %}
       {% if post.talk %}
       <a href="{{post.talk}}">talk</a>
+      {% endif %}
+      {% if post.scholar %}
+      <a href="{{post.scholar}}">scholar</a>
       {% endif %}
     </p>
   </article>
